@@ -16,3 +16,4 @@ Projects:
 
 Inboxia (inboxia.org) | Free Privacy Email Replacing other email service there is like proton and etc. With many emails in one acc and domains soon.
 
+Last Updated on: August 8, 2025
