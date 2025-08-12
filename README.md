@@ -1,4 +1,5 @@
 Hello there welcome to my GitHub profile
+
 ![](https://github.com/l-a-t-e-r/l-a-t-e-r/blob/main/icons/anime-eyes-gif-pfp-2.gif)
 
 About me :  
@@ -8,7 +9,9 @@ I live in the United States of America and likes to learn new things and try eve
 
 Chess
 
+
 Programming ( Cs. Js. HTML. Python, Rust, AI, and pip w/e there is out there).
+
 
 Just making the best project there is out there since the internet needs it.
 
@@ -16,4 +19,4 @@ Projects:
 
 Inboxia (inboxia.org) | Free Privacy Email Replacing other email service there is like proton and etc. With many emails in one acc and domains soon.
 
-Last Updated on: August 8, 2025
+Last Updated on: August 13, 2025
